@@ -10,6 +10,11 @@ Audio frequency based stepper motor driver, written in ARM Assembly with Thumb2 
 * [Project Report](https://github.com/3b83/freq-based-motor/blob/main/Documentation/447_FINAL_REPORT.pdf)
 
 ## Used components
+
+<p align="center">
+  <img src="https://github.com/3b83/freq-based-motor/blob/main/Documentation/L_OFF.jpg">
+</p>
+
 * EK-TM4C123GXL LaunchPad Evaluation Board ARM Cortex-M4F Tiva C
 * Stepper motor & driver
 * Nokia 5510 LCD
