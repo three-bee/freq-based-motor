@@ -2,9 +2,7 @@
 
 **Middle East Technical University, Electrical-Electronics Engineering Department, Fall 2022 Term** 
 
-**EE447 Introduction to Microprocessors**
-
-**Term Project** 
+**EE447 - Introduction to Microprocessors - Term Project** 
 
 Audio frequency based stepper motor driver, written in ARM Assembly with Thumb2 instruction set.
 
